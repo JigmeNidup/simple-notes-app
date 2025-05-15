@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "NotesApp",
-    "slug": "NotesApp",
+    "name": "Simple Notes",
+    "slug": "Simple Notes",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
