@@ -4,6 +4,7 @@
     "appVersionSource": "remote"
   },
   "build": {
+    
     "development": {
       "developmentClient": true,
       "distribution": "internal"
